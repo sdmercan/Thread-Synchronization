@@ -6,7 +6,7 @@ Thread Senkronizasyonu: Aynı veri ile ilgilenen birden fazla thread'in veriye e
 Main içinde 3 adet thread oluşturulacak.
 
 Start sonrası Main threadlere:
-"thread ... oluşturuldu" diyecek.
+"Thread ... oluşturuldu" diyecek.
 
 Thread 5-15sn arası random sleep yapacak.Ardından
 "Bana müsade (Thread ...) " şeklinde mesaj vererek sonlanacak.
